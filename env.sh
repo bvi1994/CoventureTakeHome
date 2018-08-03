@@ -1,2 +1,0 @@
-export PLOTLY_USERNAME='bvi1'
-export PLOTLY_API_KEY='YrzJRb6t0gpYlxfG12B3'
