@@ -3,6 +3,8 @@ Conventure Take Home
 
 This take home is for Conventure. Note: I don't have any experience or background in Finance. However, I did the best I can to learn the the concepts of finance to do this take home and try really hard to focus on the programming aspect of the take home.
 
+Nevertheless, I have enjoyed this assignment. Learning the fundamentals of finance and getting reacquianted with data visualization libraries like Plot.ly was so much fun. Hopefully I will get to do more such projects in the future with Coventure!
+
 If you have any questions or concerns or any bugs in the code, please contact me at brandvi1994@gmail.com! Enjoy!
 
 
