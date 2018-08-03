@@ -1,7 +1,9 @@
 # CoventureTakeHome
 Conventure Take Home
 
-This take home is for Conventure. Note: I don't have any experience or background in Finance. However, I did the best I can to learn the the concepts of finance to do this take home and try really hard to focus on the programming aspect of the take home. 
+This take home is for Conventure. Note: I don't have any experience or background in Finance. However, I did the best I can to learn the the concepts of finance to do this take home and try really hard to focus on the programming aspect of the take home.
+
+If you have any questions or concerns or any bugs in the code, please contact me at brandvi1994@gmail.com! Enjoy!
 
 
 Part 1:
@@ -22,13 +24,13 @@ In the 'longorshort' column of the csv, the date as to whether to go 'long' or '
 Part 2: 
 4) Graph the equity curve of the strategies
 
--[Equity Graph for Long and Short](https://plot.ly/~bvi1/77/equity-graph-for-apple/#/)
--[Equity Graph for 1, 3 and 10 day sales](https://plot.ly/~bvi1/77/equity-curve-for-1-3-10-day-sales/#/)
+- [Equity Graph for Long and Short](https://plot.ly/~bvi1/77/equity-graph-for-apple/#/)   
+- [Equity Graph for 1, 3 and 10 day sales](https://plot.ly/~bvi1/77/equity-curve-for-1-3-10-day-sales/#/)
 
 5) List each trade in the strategy
 
--[Trade Dates for Long and Short](https://github.com/bvi1994/CoventureTakeHome/blob/master/3dayMATrades.csv)
--[Trade Dates for 1, 3 and 10 day sales](https://github.com/bvi1994/CoventureTakeHome/blob/master/3daystrat.csv)
+- [Trade Dates for Long and Short](https://github.com/bvi1994/CoventureTakeHome/blob/master/3dayMATrades.csv)   
+- [Trade Dates for 1, 3 and 10 day sales](https://github.com/bvi1994/CoventureTakeHome/blob/master/3daystrat.csv)
 
 6) What 3 metrics would you analyse to determine whether the strategy was good or bad (not including the overall PNL of the strategy)?
 
